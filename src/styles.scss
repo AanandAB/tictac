@@ -86,7 +86,7 @@ button {
   background-color: $blue;
   box-shadow: 0px 0px 0px 1px $red;
   &.active {
-    background-color: $red;
+    background-color: rgb(7, 224, 7);
     box-shadow: none;
   }
 }
